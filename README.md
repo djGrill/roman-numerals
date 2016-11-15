@@ -2,7 +2,7 @@
 
 After reading the wiki page about [Roman Numerals](http://wikipedia.org/wiki/Roman_numerals), it was quite straightforward to determine the right approach to solve the problem based on the basic rules of the Roman numeral system (including the Subtractive Notation).
 
-After defining the action plan, I started to implement tests for valid and invalid inputs, with several decimal numbers and their respective Roman Numerals. I made use of [Jasmine](http://pivotal.github.io/jasmine/) as the testing framework.
+After defining the action plan, I started to implement tests for valid and invalid inputs, with several decimal numbers and their respective Roman Numerals. I made use of [Jasmine](https://jasmine.github.io/) as the testing framework.
 
 
 #### Coding
